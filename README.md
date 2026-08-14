@@ -1,1 +1,1 @@
-It will for Daily  remainder work.
+It will for Daily tasks .
