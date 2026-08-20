@@ -1,1 +1,1 @@
-It will for Daily tasks .
+It will for Daily task.
