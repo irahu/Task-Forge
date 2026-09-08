@@ -1,1 +1,1 @@
-It will for Daily task.
+It will for Daily task. Using html ,css, javascript.
